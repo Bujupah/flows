@@ -64,4 +64,4 @@ The app provides a set of built-in integrations with popular services like Googl
 Contributions are welcome! Please open a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](license) file for
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for
